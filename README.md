@@ -13,7 +13,7 @@ Alura Plus é um projeto desenvolvido durante as aulas da plataforma Alura, onde
 <div style="display: block">
  
  ## Link do projeto
-  https://pedroreis16.github.io/CheckoutPage/
+  https://pedroreis16.github.io/AluraPlus/
 </div>
 
 ## Autor
