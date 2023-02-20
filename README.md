@@ -1,7 +1,7 @@
 # Alura Plus
 
 ## Sobre o projeto 
-Alura Plus é um projeto desenvolvido em HTML e CSS, baseado em uma aula da plataforma Alura Cursos, onde foi apresentados os conceitos básicos sobre a estilização de página web em HTML e CSS.
+Alura Plus é um projeto desenvolvido durante as aulas da plataforma Alura, onde o objetivo principal era a alicação dos conceitos básicos sobre a estilização de páginas web utilizando HTML e CSS.
 
 ## Imagens do projeto
 <div style="display: inline_block">
